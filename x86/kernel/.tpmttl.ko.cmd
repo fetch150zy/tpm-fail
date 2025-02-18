@@ -1,0 +1,1 @@
+savedcmd_/home/fetch150zy/Repo-L/TPM-FAIL/x86/kernel/tpmttl.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/fetch150zy/Repo-L/TPM-FAIL/x86/kernel/tpmttl.ko /home/fetch150zy/Repo-L/TPM-FAIL/x86/kernel/tpmttl.o /home/fetch150zy/Repo-L/TPM-FAIL/x86/kernel/tpmttl.mod.o
