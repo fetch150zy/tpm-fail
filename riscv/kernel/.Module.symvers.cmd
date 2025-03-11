@@ -1,1 +1,0 @@
-savedcmd_/home/fetch150zy/Repo-L/riscv/source/buildroot/overlay/TPM-FAIL/riscv/kernel/Module.symvers :=  scripts/mod/modpost -M        -o /home/fetch150zy/Repo-L/riscv/source/buildroot/overlay/TPM-FAIL/riscv/kernel/Module.symvers -n -T /home/fetch150zy/Repo-L/riscv/source/buildroot/overlay/TPM-FAIL/riscv/kernel/modules.order -i Module.symvers -e 

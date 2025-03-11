@@ -1,1 +1,0 @@
-savedcmd_/home/fetch150zy/Repo-L/riscv/source/buildroot/overlay/TPM-FAIL/riscv/kernel/tpmttl.mod := printf '%s\n'   tpmttl.o | awk '!x[$$0]++ { print("/home/fetch150zy/Repo-L/riscv/source/buildroot/overlay/TPM-FAIL/riscv/kernel/"$$0) }' > /home/fetch150zy/Repo-L/riscv/source/buildroot/overlay/TPM-FAIL/riscv/kernel/tpmttl.mod
